@@ -7,3 +7,4 @@ java
 spring boot
 microservices
 database
+oracal
